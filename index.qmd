@@ -6,35 +6,38 @@ toc: false
 
 ![](images/banner.jpg){width=100%}
 
-::: {.columns}
+::: {.columns style="align-items:flex-start; column-gap:2.5rem;"}
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
 :::
 
-::: {.column width="35%"}
+::: {.column width="45%" style="padding-top:0.25rem;"}
 ![](images/conference2.jpg){width=100%}
 :::
 
 :::
 
 
-::: {.columns}
+::: {.columns style="align-items:flex-start; column-gap:2.5rem; margin-top:1.5rem;"}
 
-::: {.column width="35%"}
+::: {.column width="45%" style="padding-top:0.25rem;"}
 ![](images/conference.jpg){width=100%}
 :::
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 ### Research vision
-My research is driven by a central question: **what do plants, microbes, and viruses do in concert with one another, and how do these interactions shape biological function and environmental outcomes?**  
+My research is driven by a central question: **what do plants, microbes, and viruses do in concert with one another, and how do these interactions shape biological function and environmental outcomes?**
 
 I am particularly interested in the functional genetics of microbial life in ecological contexts where they interact to influence plant performance and broader ecosystem processes. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.
 :::
+
 :::
 
-::: {.columns}
-::: {.column width="45%"}
+
+::: {.columns style="align-items:flex-start; column-gap:2.5rem; margin-top:1.5rem;"}
+
+::: {.column width="50%"}
 ### Core research areas
 
 **Microbial ecology.** Investigation of bacterial and fungal community dynamics in soil and plant-associated environments through a range of molecular and bioinformatic practices.
@@ -44,16 +47,16 @@ I am particularly interested in the functional genetics of microbial life in eco
 **Epigenetics and functional regulation.** How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.
 :::
 
-::: {.column width="45%"}
+::: {.column width="50%"}
 ### Current external collaborations
 
-**[CAT-G Genome Canada](https://cat-g.ca/):** Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT's - funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-climate-smart-data-collaboration-centre/).
+**[CAT-G Genome Canada](https://cat-g.ca/):** Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT's, funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-climate-smart-data-collaboration-centre/).
 
 ### Contact and links
 
 - Email: **jack.royle@usask.ca**
 - GitHub: [Here](https://github.com/roylejw)
-- Google Scholar: **[Here](https://scholar.google.com/citations?user=ZOjkGJkAAAAJ&hl=en)**
+- Google Scholar: [Here](https://scholar.google.com/citations?user=ZOjkGJkAAAAJ&hl=en)
 - LinkedIn: [Here](https://www.linkedin.com/in/jackroyle1/)
 
 ### Quick links
@@ -62,7 +65,9 @@ I am particularly interested in the functional genetics of microbial life in eco
 - Code, data, and reproducible resources: [Data & Code](resources.qmd)
 - Background and CV: [About](about.qmd)
 :::
+
 :::
+
 ---
 
 *Last updated: 2025-12-19*
