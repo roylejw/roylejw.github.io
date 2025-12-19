@@ -1,8 +1,23 @@
-/* css styles */
-.column img {
-  margin-left: 1rem;
+/* Consistent spacing and top alignment for paired sections */
+.colgap {
+  column-gap: 2.5rem;
+  align-items: flex-start;
+  margin-top: 1.5rem;
 }
 
-.columns {
-  column-gap: 2.5rem;
+/* Make the first .columns block (right after the banner) not add extra top margin */
+.colgap:first-of-type {
+  margin-top: 1rem;
+}
+
+/* Grid spacing (Quarto grid uses CSS grid, not flex) */
+.grid.colgap {
+  gap: 2.5rem;
+}
+
+/* Prevent images from forcing awkward wrapping */
+.column img, .g-col-6 img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
