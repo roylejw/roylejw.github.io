@@ -62,8 +62,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 ### Quick links
 
 - Publications and preprints: [Publications](publications.qmd)
-- Code, data, and reproducible resources: [Data & Code](resources.qmd)
-- Background and CV: [About](about.qmd)
+- CV: [CV](resources.qmd)
 :::
 
 :::
