@@ -4,7 +4,7 @@ page-layout: full
 toc: false
 ---
 
-![](banner/fieldwork.jpg){width=100%}
+![](images/banner.jpg){width=100%}
 
 ::: {.columns}
 
@@ -12,7 +12,7 @@ toc: false
 I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
 :::
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 ![](images/conference.jpg){width=100%}
 :::
 
@@ -20,7 +20,7 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 
 ### Research vision
 ::: {.columns}
-::: {.column width="40%"}
+::: {.column width="35%"}
 ![](images/conference2.jpg){width=100%}
 :::
 
@@ -32,7 +32,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 :::
 
 ::: {.columns}
-::: {.column width="50%"}
+::: {.column width="40%"}
 ### Core research areas
 
 **Microbial ecology.** Investigation of bacterial and fungal community dynamics in soil and plant-associated environments through a range of molecular and bioinformatic practices.
@@ -42,7 +42,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 **Epigenetics and functional regulation.** How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ### Current external collaborations
 
 **[CAT-G Genome Canada](https://cat-g.ca/):** Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT's - funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-climate-smart-data-collaboration-centre/).
