@@ -25,7 +25,7 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 ![](images/conference.jpg){width=100%}
 :::
 
-::: {.column width="60%"}
+::: {.column width="60%" style="padding-left:1.25rem;}
 ### Research vision
 My research is driven by a central question: **what do plants, microbes, and viruses do in concert with one another, and how do these interactions shape biological function and environmental outcomes?**
 
