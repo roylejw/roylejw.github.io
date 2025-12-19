@@ -8,12 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
       - href: publications.qmd
         text: Publications
-      - href: resources.qmd
-        text: Data & Code
+      - href: research.qmd
+        text: Research        
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
