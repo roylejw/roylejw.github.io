@@ -1,0 +1,31 @@
+---
+title: "Publications"
+page-layout: full
+toc: false
+---
+
+### Peer-reviewed publications
+
+This page lists all peer-reviewed articles and manuscripts. For a complete and automatically updated record, see my Google Scholar profile.
+
+---
+
+## Journal articles
+
+**Genotype dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*.**
+Royle JW, Farzadfar S, Wasan JP, Bennett JA. 
+*In review*, (2025)
+
+**Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.**  
+Royle JW, Hurwood D, Sadowski P, Dudley KJ.  
+*Insect Molecular Biology* **33**(5): 493–502 (2024)
+
+**MassARRAY and SABER analyses of SNPs in embryo DNA reveal the abscission of self-fertilised progeny during fruit development of macadamia (*Macadamia integrifolia* Maiden & Betche).**  
+De Silva AL, Kämper W, Ogbourne SM, Nichols J, Royle JWL, Peters T, et al.  
+*International Journal of Molecular Sciences* **25**(12): 6419 (2024)
+
+**A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, *Paratya australiensis*.**  
+Rogl KA, Rahi ML, Royle JWL, Prentis PJ, Hurwood DA.  
+*Hydrobiologia* **825**(1): 189–196 (2018)
+
+---
