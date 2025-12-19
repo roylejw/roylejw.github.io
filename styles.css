@@ -2,3 +2,7 @@
 .column img {
   margin-left: 1rem;
 }
+
+.columns {
+  column-gap: 2.5rem;
+}

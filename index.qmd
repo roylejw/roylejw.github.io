@@ -34,7 +34,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 :::
 
 ::: {.columns}
-::: {.column width="40%"}
+::: {.column width="45%"}
 ### Core research areas
 
 **Microbial ecology.** Investigation of bacterial and fungal community dynamics in soil and plant-associated environments through a range of molecular and bioinformatic practices.
@@ -44,7 +44,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 **Epigenetics and functional regulation.** How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.
 :::
 
-::: {.column width="40%"}
+::: {.column width="45%"}
 ### Current external collaborations
 
 **[CAT-G Genome Canada](https://cat-g.ca/):** Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT's - funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-climate-smart-data-collaboration-centre/).
@@ -52,7 +52,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 ### Contact and links
 
 - Email: **jack.royle@usask.ca**
-- GitHub: **https://github.com/roylejw**
+- GitHub: [Here](https://github.com/roylejw)
 - Google Scholar: **[Here](https://scholar.google.com/citations?user=ZOjkGJkAAAAJ&hl=en)**
 - LinkedIn: [Here](https://www.linkedin.com/in/jackroyle1/)
 
