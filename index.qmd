@@ -22,7 +22,7 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 ::: {.columns .colgap}
 
 ::: {.column width="40%"}
-![](images/conference.jpg){width=100%}
+![](images/conference.jpg){width=90%}
 :::
 
 ::: {.column width="60%" style="padding-left:1.25rem;}
