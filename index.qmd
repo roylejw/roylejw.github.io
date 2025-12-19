@@ -18,13 +18,14 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 
 :::
 
-### Research vision
+
 ::: {.columns}
 ::: {.column width="35%"}
 ![](images/conference2.jpg){width=100%}
 :::
 
 ::: {.column width="60%"}
+### Research vision
 My research is driven by a central question: **what do plants, microbes, and viruses do in concert with one another, and how do these interactions shape biological function and environmental outcomes?**  
 
 I am particularly interested in the functional genetics of microbial life in ecological contexts where they interact to influence plant performance and broader ecosystem processes. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.
