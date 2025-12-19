@@ -13,15 +13,16 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 :::
 
 ::: {.column width="35%"}
-![](images/conference.jpg){width=100%}
+![](images/conference2.jpg){width=100%}
 :::
 
 :::
 
 
 ::: {.columns}
+
 ::: {.column width="35%"}
-![](images/conference2.jpg){width=100%}
+![](images/conference.jpg){width=100%}
 :::
 
 ::: {.column width="60%"}
