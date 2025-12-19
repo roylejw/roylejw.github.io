@@ -18,14 +18,14 @@ Royle JW, Farzadfar S, Wasan JP, Bennett JA.
 
 **Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.**  
 Royle JW, Hurwood D, Sadowski P, Dudley KJ.  
-*Insect Molecular Biology* **33**(5): 493–502 (2024)
+*Insect Molecular Biology* **33**(5): 493–502 (2024). DOI: [](https://doi.org/10.1111/imb.12917)
 
 **MassARRAY and SABER analyses of SNPs in embryo DNA reveal the abscission of self-fertilised progeny during fruit development of macadamia (*Macadamia integrifolia* Maiden & Betche).**  
-De Silva AL, Kämper W, Ogbourne SM, Nichols J, Royle JWL, Peters T, et al.  
-*International Journal of Molecular Sciences* **25**(12): 6419 (2024)
+De Silva AL, Kämper W, Ogbourne SM, Nichols J, Royle JWL, Peters T, Hawkes D, Hosseini Bai S, Wallace H.M., Trueman S.J. 
+*International Journal of Molecular Sciences* **25**(12): 6419 (2024). DOI: []( https://doi.org/10.3390/ijms25126419)
 
 **A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, *Paratya australiensis*.**  
 Rogl KA, Rahi ML, Royle JWL, Prentis PJ, Hurwood DA.  
-*Hydrobiologia* **825**(1): 189–196 (2018)
+*Hydrobiologia* **825**(1): 189–196 (2018). DOI: [](https://doi.org/10.1007/s10750-018-3716-7)
 
 ---

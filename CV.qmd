@@ -1,0 +1,101 @@
+---
+title: "CV"
+page-layout: full
+toc: true
+toc-depth: 2
+---
+
+## Jack Royle, PhD
+
+**Email:** XXX  
+**Phone:** XXX
+
+---
+
+## Employment
+
+### University of Saskatchewan, Saskatoon, Canada  
+**Postdoctoral Fellow** (2024–Present)
+
+- Led integrative analyses linking plant productivity, soil microbial communities, and ecosystem function in Canadian grasslands.
+- Developed and maintained bioinformatic pipelines for processing large-scale genomic sequencing datasets.
+- Coordinated province-wide data collection and management as part of Genome Canada-funded research.
+- Contributed to collaborative scientific publications, grant writing and reporting, and interdisciplinary research outputs.
+- Mentored and supervised undergraduate and graduate students.
+
+### Australian Genome Research Facility, Brisbane, Australia  
+
+**I&D Scientist** (2023–2024)
+
+- Identified and implemented new protocols, with a focus on long-read sequencing platforms.
+- Developed costings and supported financial decisions regarding cost recovery.
+- Monitored technical advancements and developed opportunities for new services and efficiency improvements.
+- Implemented bioinformatic analysis pipelines, focusing on microbial, metagenomic, and pan-genomic tools.
+- Worked with external collaborators to identify research projects with ongoing service potential.
+- Presented at scientific conferences.
+
+**Technical Officer** (2022–2023)
+
+- Managed projects spanning library preparation, sequencing, and delivery of PacBio data and analyses to clients.
+- Pioneered AWS infrastructure for cloud-based processing of long-read bioinformatic analyses.
+- Produced client-facing reports and SOPs; supported project design and communication.
+- Trained new staff to proficiency aligned with SOPs and NATA accreditation guidelines.
+
+**Senior Laboratory Technician, Custom SNP Genotyping** (2021–2022)
+
+- Designed and analysed custom SNP genotyping panels on the Agena MassARRAY platform.
+- Spearheaded introduction of qPCR and TaqMan assays as a commercial service.
+
+**Laboratory Technician, Sanger Sequencing** (2018–2021)
+
+---
+
+## Education
+
+### Queensland University of Technology  
+**Doctor of Philosophy (PhD)** (2016–2020)  
+Thesis: *Functional characterisation of DNA methylation in the pest species* *Helicoverpa armigera*
+
+**Bachelor of Science (Honours), First Class** (2015)
+
+**Bachelor of Applied Science (Biotechnology)** (2014)
+
+---
+
+## Publications
+
+
+De Silva AL, Kämper W, Ogbourne SM, Nichols J, **Royle JWL**, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ.  
+“MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (*Macadamia integrifolia* Maiden & Betche)”.  
+*International Journal of Molecular Sciences* (2024) **25**(12): 6419.
+
+**Royle JW**, Hurwood D, Sadowski P, Dudley KJ.  
+“Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.”  
+*Insect Molecular Biology* (2024) **33**(5): 493–502.
+
+Rogl KA, Rahi ML, **Royle JW**, Prentis PJ, Hurwood DA.  
+“A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, *Paratya australiensis*.”  
+*Hydrobiologia* (2018) **825**(1): 189–196.
+
+---
+
+## Conference presentations
+
+**Royle JWL**, Bennett JA. “Exploring the ecological role of viruses in grassland soil dynamics.”  
+Canadian Society of Ecology and Evolution (2025).
+
+**Royle JWL**, James M, Ortiz-Barrientos D. “Building a Pangenome.”  
+Plant and Animal Genomics (2023).
+
+**Royle JWL**, Ottewell K. “Bat scat genomics: Evolution of genomic tools for studying populations.”  
+Plant and Animal Genomics (2023).
+
+**Royle JWL**, Prabhu A, An J, Hawkes D, Grinham H, Rinke C.  
+“Bridging the Gap in soil metagenomics: The Power of PacBio HiFi reads for improved de novo assembly and accurate bacterial profiling in DDT-contaminated environments.”  
+International Congress of Genetics (2023).
+
+**Royle JWL**, Prabhu A, An J, Hawkes D, Grinham H, Rinke C.  
+“Metagenomic Insights of a complex soil sample using the PacBio Sequel I.”  
+(Conference details as listed in CV; add venue/year if you want this completed.)
+
+---
