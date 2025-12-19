@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Jack Royle"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: resources.qmd
+        text: Data & Code
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+
+
+
+
