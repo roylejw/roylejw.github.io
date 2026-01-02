@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Having left industry after five years working in the R&D space in genomics and sequencing, I am now a postdoctoral fellow in the Department of Plant Sciences at the University of Saskatchewan, working within the Bennett Lab. I currently lead the metagenomic and bioinformatic components of Grassland Genomics for Greenhouse Gas Mitigation (GG4GHG), a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.\n\n\n\n\n\n\n\n\n\nResearch vision\nMy work is driven by a central question: how do plants, microbes, and viruses thrive in concert with one another, and how do these interactions shape biological function and environmental outcomes?\nI am particularly interested in the functional genetics of microbial life, where plant performance and broader ecosystem success is derived from microbial outputs, and microbial success is governed by the inputs of their surround communities. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.\n\n\n\n\n\nCore research areas\nMicrobial ecology. Investigation of microbial community dynamics and plant-soil interactions, in a range of environmental contexts to discern how the microbial community influences (and is influenced) by their interactions.\nViral ecology. Examination of viruses as integral components of the soil ecosystem, focusing on how viral infection, lifestyle, and host interactions influence microbial function, community dynamics, and cross-kingdom feedbacks in environmental systems.\nEpigenetics and functional regulation. How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.\n\n\n\nCurrent external collaborations\nCAT-G Genome Canada: Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT’s, funded through the CS-DCC.\n\n\nContact and links\n\nEmail: jack.royle@usask.ca\nGitHub: Here\nGoogle Scholar: Here\nLinkedIn: Here\n\n\n\nQuick links\n\nPublications and preprints: Publications\nCV: CV\n\n\n\n\n\nLast updated: 2025-12-19"
+    "text": "Having left industry after five years working in the R&D space in genomics and sequencing, I am now a postdoctoral fellow in the Department of Plant Sciences at the University of Saskatchewan, working within the Bennett Lab. I currently lead the metagenomic and bioinformatic components of Grassland Genomics for Greenhouse Gas Mitigation (GG4GHG), a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.\n\n\n\n\n\n\n\n\n\nResearch vision\nMy work is driven by a central question: how do plants, microbes, and viruses thrive in concert with one another, and how do these interactions shape biological function and environmental outcomes?\nI am particularly interested in the functional genetics of microbial life, where plant performance and broader ecosystem success is derived from microbial outputs, and microbial success is governed by the inputs of their surround communities. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.\n\n\n\n\n\nCore research areas\nMicrobial ecology. Investigation of microbial community dynamics and plant-soil interactions, in a range of environmental contexts to discern how the microbial community influences (and is influenced) by their interactions.\nViral ecology. Examination of viruses as integral components of the soil ecosystem, focusing on how viral infection, lifestyle, and host interactions influence microbial function, community dynamics, and cross-kingdom feedbacks in environmental systems.\nEpigenetics and functional regulation. How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.\n\n\n\nCurrent external collaborations\nCAT-G Genome Canada: Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT’s, funded through the CS-DCC.\n\n\nContact and links\n\nEmail: jack.royle@usask.ca\nGitHub: Here\nGoogle Scholar: Here\nLinkedIn: Here\n\n\n\nQuick links\n\nPublications and preprints: Publications\nCV: CV\n\n\n\n\n\nLast updated: 2026-01-02"
   },
   {
     "objectID": "research.html",
@@ -21,18 +21,25 @@
     "text": "Below are previews and links to previous poster submissions to various conferences attended. Presentation slides not shared unless permission from all authors have been given. Please contact me for more information."
   },
   {
-    "objectID": "research.html#conference-public-presentations",
-    "href": "research.html#conference-public-presentations",
+    "objectID": "research.html#canadian-society-of-ecology-and-evolution.-sherbrooke-qc-2025.",
+    "href": "research.html#canadian-society-of-ecology-and-evolution.-sherbrooke-qc-2025.",
     "title": "Conference submissions",
-    "section": "Conference & public presentations",
-    "text": "Conference & public presentations"
+    "section": "Canadian Society of Ecology and Evolution. Sherbrooke, QC 2025.",
+    "text": "Canadian Society of Ecology and Evolution. Sherbrooke, QC 2025.\n PDF here —"
   },
   {
-    "objectID": "research.html#poster-submissions",
-    "href": "research.html#poster-submissions",
+    "objectID": "research.html#international-congress-of-genomics.-melbourne-victoria-aus-2023.",
+    "href": "research.html#international-congress-of-genomics.-melbourne-victoria-aus-2023.",
     "title": "Conference submissions",
-    "section": "Poster submissions",
-    "text": "Poster submissions"
+    "section": "International Congress of Genomics. Melbourne, Victoria AUS, 2023.",
+    "text": "International Congress of Genomics. Melbourne, Victoria AUS, 2023.\n PDF here —"
+  },
+  {
+    "objectID": "research.html#australasian-genomics-conference.-sunshine-coast-queensland-aus-2022.",
+    "href": "research.html#australasian-genomics-conference.-sunshine-coast-queensland-aus-2022.",
+    "title": "Conference submissions",
+    "section": "Australasian Genomics Conference. Sunshine Coast, Queensland AUS, 2022.",
+    "text": "Australasian Genomics Conference. Sunshine Coast, Queensland AUS, 2022.\n PDF here —"
   },
   {
     "objectID": "publications.html",
@@ -67,7 +74,7 @@
     "href": "CV.html#publications",
     "title": "CV",
     "section": "Publications",
-    "text": "Publications\nDe Silva AL, Kämper W, Ogbourne SM, Nichols J, Royle JWL, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ.\n“MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (Macadamia integrifolia Maiden & Betche)”.\nInternational Journal of Molecular Sciences (2024) 25(12): 6419.\nRoyle JW, Hurwood D, Sadowski P, Dudley KJ.\n“Non-CG DNA methylation marks the transition from pupa to adult in Helicoverpa armigera.”\nInsect Molecular Biology (2024) 33(5): 493–502.\nRogl KA, Rahi ML, Royle JW, Prentis PJ, Hurwood DA.\n“A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, Paratya australiensis.”\nHydrobiologia (2018) 825(1): 189–196."
+    "text": "Publications\nDe Silva AL, Kämper W, Ogbourne SM, Nichols J, Royle JWL, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ. “MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (Macadamia integrifolia Maiden & Betche)”. International Journal of Molecular Sciences (2024) 25(12): 6419.\nRoyle JW, Hurwood D, Sadowski P, Dudley KJ. “Non-CG DNA methylation marks the transition from pupa to adult in Helicoverpa armigera.” Insect Molecular Biology (2024) 33(5): 493–502.\nRogl KA, Rahi ML, Royle JW, Prentis PJ, Hurwood DA. “A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, Paratya australiensis.” Hydrobiologia (2018) 825(1): 189–196."
   },
   {
     "objectID": "CV.html#conference-presentations",
