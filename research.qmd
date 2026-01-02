@@ -1,0 +1,49 @@
+---
+title: "Conference submissions"
+page-layout: full
+toc: false
+---
+
+Below are previews and links to previous poster submissions to various conferences attended. Presentation slides not shared unless permission from all authors have been given. Please contact me for more information.
+
+---
+
+# Conference & public presentations
+
+### RUMINATIONS: Global Change & Nature-Based Solutions Seminar Series. Saskatoon SK, 2025.
+
+**Royle JWL**, Bennett, JA. "Fantastic Microbes and How To Find Them: Approaches to understanding microbial diversity in environmental systems."
+
+### Cultivating Resilience Summit: ICT Research Showcase. Vancouver BC, 2025.
+
+**Royle JWL**, Bobiwash K, Cattani D, Gibbs J, Ko S, Lloyd-Smith P, Prager S, Zhang H, Asselin S, Bennett JA. "Grassland Genomics for Greenhouse Gas mitigation (GG4GHG)."
+
+### Plant and Animal Genomics. Perth, 2023
+
+**Royle JWL**, James M, Ortiz-Barrientos D. “Building a Pangenome.”
+
+**Royle JWL**, Ottewell K. “Bat scat genomics: Evolution of genomic tools for studying populations.”  
+
+
+# Poster submissions
+
+## Canadian Society of Ecology and Evolution. Sherbrooke, QC 2025.
+
+![](images/CSEE_poster.jpg){height=50%, width=50%}
+
+[PDF here](posters/CSEE_poster.pdf)
+---
+
+## International Congress of Genomics. Melbourne, Victoria AUS, 2023.
+
+![](images/ICG_poster.jpg){height=50%, width=50%}
+
+[PDF here](posters/ICG_poster.pdf)
+---
+
+## Australasian Genomics Conference. Sunshine Coast, Queensland AUS, 2022.
+
+![](images/AGTA_poster.jpg){height=50%, width=50%}
+
+[PDF here](posters/AGTA_poster.pdf)
+---

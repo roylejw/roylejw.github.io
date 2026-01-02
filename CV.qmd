@@ -7,11 +7,6 @@ toc-depth: 2
 
 ## Jack Royle, PhD
 
-**Email:** XXX  
-**Phone:** XXX
-
----
-
 ## Employment
 
 ### University of Saskatchewan, Saskatoon, Canada  
@@ -25,9 +20,9 @@ toc-depth: 2
 
 ### Australian Genome Research Facility, Brisbane, Australia  
 
-**I&D Scientist** (2023–2024)
+**R&D Scientist** (2023–2024)
 
-- Identified and implemented new protocols, with a focus on long-read sequencing platforms.
+- Identified and implemented new protocols, with a focus on long-read sequencing platforms (PacBio).
 - Developed costings and supported financial decisions regarding cost recovery.
 - Monitored technical advancements and developed opportunities for new services and efficiency improvements.
 - Implemented bioinformatic analysis pipelines, focusing on microbial, metagenomic, and pan-genomic tools.
@@ -64,18 +59,11 @@ Thesis: *Functional characterisation of DNA methylation in the pest species* *He
 
 ## Publications
 
+De Silva AL, Kämper W, Ogbourne SM, Nichols J, **Royle JWL**, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ. “MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (*Macadamia integrifolia* Maiden & Betche)”. *International Journal of Molecular Sciences* (2024) **25**(12): 6419.
 
-De Silva AL, Kämper W, Ogbourne SM, Nichols J, **Royle JWL**, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ.  
-“MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (*Macadamia integrifolia* Maiden & Betche)”.  
-*International Journal of Molecular Sciences* (2024) **25**(12): 6419.
+**Royle JW**, Hurwood D, Sadowski P, Dudley KJ. “Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.” *Insect Molecular Biology* (2024) **33**(5): 493–502.
 
-**Royle JW**, Hurwood D, Sadowski P, Dudley KJ.  
-“Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.”  
-*Insect Molecular Biology* (2024) **33**(5): 493–502.
-
-Rogl KA, Rahi ML, **Royle JW**, Prentis PJ, Hurwood DA.  
-“A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, *Paratya australiensis*.”  
-*Hydrobiologia* (2018) **825**(1): 189–196.
+Rogl KA, Rahi ML, **Royle JW**, Prentis PJ, Hurwood DA. “A transcriptome-wide assessment of differentially expressed genes among two highly divergent, yet sympatric, lineages of the freshwater Atyid shrimp, *Paratya australiensis*.” *Hydrobiologia* (2018) **825**(1): 189–196.
 
 ---
 
@@ -95,7 +83,6 @@ Plant and Animal Genomics (2023).
 International Congress of Genetics (2023).
 
 **Royle JWL**, Prabhu A, An J, Hawkes D, Grinham H, Rinke C.  
-“Metagenomic Insights of a complex soil sample using the PacBio Sequel I.”  
-(Conference details as listed in CV; add venue/year if you want this completed.)
-
+“Metagenomic Insights of a complex soil sample using the PacBio Sequel II.”
+Australasian Genomics Conference (2022). 
 ---

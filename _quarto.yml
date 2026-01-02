@@ -11,7 +11,7 @@ website:
       - href: publications.qmd
         text: Publications
       - href: research.qmd
-        text: Research        
+        text: Conference submissions        
       - href: CV.qmd
         text: CV
 

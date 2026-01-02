@@ -9,7 +9,7 @@ toc: false
 ::: {.columns .colgap}
 
 ::: {.column width="60%"}
-I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
+Having left industry after five years working in the R&D space in genomics and sequencing, I am now a postdoctoral fellow in the Department of Plant Sciences at the University of Saskatchewan, working within the Bennett Lab. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
 :::
 
 ::: {.column width="40%"}
@@ -27,9 +27,9 @@ I am a postdoctoral fellow in Plant Sciences at the University of Saskatchewan. 
 
 ::: {.column width="60%" style="padding-left:1.25rem;}
 ### Research vision
-My research is driven by a central question: **what do plants, microbes, and viruses do in concert with one another, and how do these interactions shape biological function and environmental outcomes?**
+My work is driven by a central question: **how do plants, microbes, and viruses thrive in concert with one another, and how do these interactions shape biological function and environmental outcomes?**
 
-I am particularly interested in the functional genetics of microbial life in ecological contexts where they interact to influence plant performance and broader ecosystem processes. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.
+I am particularly interested in the functional genetics of microbial life, where plant performance and broader ecosystem success is derived from microbial outputs, and microbial success is governed by the inputs of their surround communities. My focus is using functional genomics to understand how biological interactions are encoded, regulated, and expressed across interacting plant–microbe–virus systems.
 :::
 
 :::
@@ -40,7 +40,7 @@ I am particularly interested in the functional genetics of microbial life in eco
 ::: {.g-col-6}
 ### Core research areas
 
-**Microbial ecology.** Investigation of bacterial and fungal community dynamics in soil and plant-associated environments through a range of molecular and bioinformatic practices.
+**Microbial ecology.** Investigation of microbial community dynamics and plant-soil interactions, in a range of environmental contexts to discern how the microbial community influences (and is influenced) by their interactions.
 
 **Viral ecology.** Examination of viruses as integral components of the soil ecosystem, focusing on how viral infection, lifestyle, and host interactions influence microbial function, community dynamics, and cross-kingdom feedbacks in environmental systems.
 
@@ -69,4 +69,5 @@ I am particularly interested in the functional genetics of microbial life in eco
 
 ---
 
-*Last updated: 2025-12-19*
+*Last updated: 2026-01-02*
+**Visitors:** ![Visits](https://visitor-badge.laobi.icu/badge?page_id=roylejw.roylejw.github.io)
