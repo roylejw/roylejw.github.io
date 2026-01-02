@@ -70,4 +70,5 @@ I am particularly interested in the functional genetics of microbial life, where
 ---
 
 *Last updated: 2026-01-02*
-**Visitors:** ![Visits](https://visitor-badge.laobi.icu/badge?page_id=roylejw.roylejw.github.io)
+
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=roylejw.roylejw.github.io)
