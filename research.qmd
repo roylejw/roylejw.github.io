@@ -4,11 +4,23 @@ page-layout: full
 toc: false
 ---
 
-Below are previews and links to previous poster submissions to various conferences attended. Presentation slides not shared unless permission from all authors have been given. Please contact me for more information.
+Below are previews and links to previous poster submissions and presentation titles I have been associated with at various conferences & events. Presentation slides not shared unless permission from all authors have been given. Please contact me for more information.
 
 ---
 
 # Conference & public presentations
+
+### UPCOMING: Canadian Society of Ecology and Evolution. Toronto, ON 2026.
+
+**Royle JWL***, Applebaum I, Wasan JP, Bennett JA. "Native plants filter soil pathogen communities across Canadian Grasslands."
+
+Bennet JA, Applebaum I, Huang S, Ghosh S, Prabhakaran S, ***Royle JWL***. "Specificity in arbuscular mycorrhizas is species and environment dependent."
+
+Applebaum I, ***Royle JWL***, Prabhakaran S, Bennett JA. "The effect of prairie plants on soil fungal community composition."
+
+Huang S, ***Royle JWL***, Applebaum I, Wasan JP, Bennett JA. "Plant invasion alters the diversity-productivity relationship and soil-borne pathogen communities."
+
+Peetom Heida I, Anderson H, ***Royle JWL***, Bennett JA, Carlyle C, Fitzsimmons C, Cahill J. "Soils conditions overwhelm the effects of plant species on soil microbial community composition."
 
 ### Plant and Animal Genomics. San Diego, CA, 2026.
 
