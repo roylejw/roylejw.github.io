@@ -4,17 +4,15 @@ page-layout: full
 toc: false
 ---
 
-### Peer-reviewed publications
+### Peer-reviewed, accepted publications
 
-This page lists all peer-reviewed articles and manuscripts. For a complete and automatically updated record, see my Google Scholar profile.
+This page lists all published articles and manuscripts in print. For a complete and automatically updated record, see my Google Scholar profile.
 
 ---
 
-## Journal articles
-
-**Genotype dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*.**
-Royle JW, Farzadfar S, Wasan JP, Bennett JA. 
-*Genome* JUST-IN: 2026. DOI: [https://doi.org/10.1139/gen-2025-0095]( https://doi.org/10.1139/gen-2025-0095)
+**Variety-dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*.**
+Royle JW, Farzadfar S, Wasan JP, Bennett JA. 2026. 
+*Genome* 69:1-13. DOI: [https://doi.org/10.1139/gen-2025-0095]( https://doi.org/10.1139/gen-2025-0095)
 
 **Non-CG DNA methylation marks the transition from pupa to adult in *Helicoverpa armigera*.**  
 Royle JW, Hurwood D, Sadowski P, Dudley KJ.  
@@ -29,3 +27,13 @@ Rogl KA, Rahi ML, Royle JWL, Prentis PJ, Hurwood DA.
 *Hydrobiologia* **825**(1): 189–196 (2018). DOI: [https://doi.org/10.1007/s10750-018-3716-7](https://doi.org/10.1007/s10750-018-3716-7)
 
 ---
+
+### In review, first author publications
+
+While these undergo peer review, feel free to reach out if the topic is of interest to discuss
+
+**Plant species identity structures soil oomycete communities across natural grasslands.**
+Royle JW, Applebaum I, Wasan JP, Bennett JA. 
+
+**Virus-host-environment interactions structure dsDNA soil viral communities across NEON monitored grasslands.**
+Royle JW, Al-shammaa M, Prager S, Bennett JA.

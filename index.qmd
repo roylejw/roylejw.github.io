@@ -9,7 +9,7 @@ toc: false
 ::: {.columns .colgap}
 
 ::: {.column width="60%"}
-Having left industry after five years working in the R&D space in genomics and sequencing, I am now a postdoctoral fellow in the Department of Plant Sciences at the University of Saskatchewan, working within the Bennett Lab. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how plant genetic and species diversity, together with soil microbial and insect communities, shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
+Hello, and welcome! Having left industry after five years working in the R&D space in genomics and sequencing, I am now a postdoctoral fellow in the Department of Plant Sciences at the University of Saskatchewan, working within the Bennett Lab. I currently lead the metagenomic and bioinformatic components of **[Grassland Genomics for Greenhouse Gas Mitigation](https://grassland-genomics.usask.ca/research-studies) (GG4GHG)**, a Genome Canada–funded program that investigates how soil microbial communities, together with plant & insect diversity shapes carbon storage, greenhouse gas mitigation potential, and other ecosystem services in Canadian grasslands.
 :::
 
 ::: {.column width="40%"}
@@ -50,7 +50,7 @@ I am particularly interested in the functional genetics of microbial life, where
 ::: {.g-col-6}
 ### Current external collaborations
 
-**[CAT-G Genome Canada](https://cat-g.ca/):** Contributing genomic and integrative analyses to support cross-platform and cross-system synthesis within the Genome Canada ICT’s, funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-climate-smart-data-collaboration-centre/).
+**[CAT-G Genome Canada](https://cat-g.ca/):** Leveraging large-scale metagenomic sequencing to study the microbial taxonomy and functional genomic potential of grassland soils, alongside the CAT-G team, funded through the [CS-DCC](https://climatesmartagrifood.ca/cs-dcc-data-processing-and-analytics-scholarship-names-first-recipients/).
 
 ### Contact and links
 

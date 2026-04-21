@@ -6,48 +6,84 @@ toc-depth: 2
 ---
 
 ## Jack Royle, PhD
-
-## Employment
-
-### University of Saskatchewan, Saskatoon, Canada  
-**Postdoctoral Fellow** (2024–Present)
-
-- Led integrative analyses linking plant productivity, soil microbial communities, and ecosystem function in Canadian grasslands.
-- Developed and maintained bioinformatic pipelines for processing large-scale genomic sequencing datasets.
-- Coordinated province-wide data collection and management as part of Genome Canada-funded research.
-- Contributed to collaborative scientific publications, grant writing and reporting, and interdisciplinary research outputs.
-- Mentored and supervised undergraduate and graduate students.
-
-### Australian Genome Research Facility, Brisbane, Australia  
-
-**R&D Scientist** (2023–2024)
-
-- Identified and implemented new protocols, with a focus on long-read sequencing platforms (PacBio).
-- Developed costings and supported financial decisions regarding cost recovery.
-- Monitored technical advancements and developed opportunities for new services and efficiency improvements.
-- Implemented bioinformatic analysis pipelines, focusing on microbial, metagenomic, and pan-genomic tools.
-- Worked with external collaborators to identify research projects with ongoing service potential.
-- Presented at scientific conferences.
-
-**Technical Officer** (2022–2023)
-
-- Managed projects spanning library preparation, sequencing, and delivery of PacBio data and analyses to clients.
-- Pioneered AWS infrastructure for cloud-based processing of long-read bioinformatic analyses.
-- Produced client-facing reports and SOPs; supported project design and communication.
-- Trained new staff to proficiency aligned with SOPs and NATA accreditation guidelines.
-
-**Senior Laboratory Technician, Custom SNP Genotyping** (2021–2022)
-
-- Designed and analysed custom SNP genotyping panels on the Agena MassARRAY platform.
-- Spearheaded introduction of qPCR and TaqMan assays as a commercial service.
-
-**Laboratory Technician, Sanger Sequencing** (2018–2021)
+Department of Plant Sciences
+University of Saskatchewan
+Saskatoon, Saskatchewan, Canada
 
 ---
 
 ## Education
 
-### Queensland University of Technology  
+### Queensland University of Technology, Brisbane, Australia 
+**Doctor of Philosophy (PhD)** (2020)  
+Thesis: *Functional characterisation of DNA methylation in the pest species* *Helicoverpa armigera*
+
+**Bachelor of Science (Honours), First Class** (2015)
+
+**Bachelor of Applied Science (Biotechnology)** (2014)
+
+---
+
+## Research interests
+
+**Microbial ecology.** Investigation of microbial community dynamics and plant-soil interactions, in a range of environmental contexts to discern how the microbial community influences (and is influenced) by their interactions.
+
+**Viral ecology.** Examination of viruses as integral components of the soil ecosystem, focusing on how viral infection, lifestyle, and host interactions influence microbial function, community dynamics, and cross-kingdom feedbacks in environmental systems.
+
+**Epigenetics and functional regulation.** How does epigenetics contribute to functional differentiation in host-associated and environmental systems, particularly in the context of plant–microbe interactions and environmental stresses.
+
+## Research appointments
+
+### University of Saskatchewan, Saskatoon, Canada  
+**Postdoctoral Fellow, Microbial Ecology** (Jun 2024–Present)
+*Advisor*: Dr Bennett
+
+Conduct independent and collaborative research examining plant–microbiome interactions and their role in ecosystem function and environmental sustainability. Lead genomic and ecological analyses as part of the Genome Canada–funded Grassland Genomics for Greenhouse Gas Mitigation project. Responsibilities include experimental design, quantitative analysis, integration of ecological and genomic datasets, manuscript preparation, and mentorship of student researchers.
+
+
+
+
+## Employment
+
+### University of Saskatchewan, Saskatoon, Canada  
+**Postdoctoral Fellow, Microbial Ecology** (Jun 2024–Present)
+
+Conduct independent and collaborative research examining plant–microbiome interactions and their role in ecosystem function and environmental sustainability. Lead genomic and ecological analyses as part of the Genome Canada–funded Grassland Genomics for Greenhouse Gas Mitigation project. Responsibilities include experimental design, quantitative analysis, integration of ecological and genomic datasets, manuscript preparation, and mentorship of student researchers.
+
+### Australian Genome Research Facility, Brisbane, Australia  
+
+**R&D Scientist** (2023–2024)
+
+- Led the development and implementation of next-generation sequencing workflows, with emphasis on long read sequencing technologies.
+- Contributed to strategic planning of new genomic services through technical assessment, cost modelling, and workflow optimization.
+- Evaluated emerging sequencing and analytical technologies to expand operational capabilities and support genomics applications.
+- Implemented bioinformatic analysis pipelines, focusing on microbial, metagenomic, and pangenomic tools.
+- Presented research and technical developments at international conferences.
+
+**Technical Officer** (2022–2023)
+
+- Managed projects spanning library preparation, sequencing, and delivery of PacBio data and analyses to clients.
+- Pioneered AWS infrastructure for cloud-based processing of long-read bioinformatic analyses.
+- Produced client-facing reports and SOPs, and supported project design and communication.
+- Responsible foe the training of new staff to technical proficiency.
+
+**Senior Laboratory Technician, Custom SNP Genotyping** (2021–2022)
+**Laboratory Technician, Sanger Sequencing** (2018–2021)
+
+- Designed and analysed custom genotyping panels on the Agena MassARRAY platform.
+- Spearheaded introduction of novel assays as a commercial service.
+
+### Queensland University of Technology, Brisbane, Australia 
+**Laboratory Tutor & Lecturer, Microbiology** (2017-2019)
+
+- Taught undergraduate students microbiological and molecular biology skills in both a classroom and laboratory setting.
+- Gave lectures on fundamental molecular biology to undergraduate students.  
+- Responsible for the set-up and packdown of laboratory classes.
+---
+
+## Education
+
+### Queensland University of Technology, Brisbane, Australia 
 **Doctor of Philosophy (PhD)** (2016–2020)  
 Thesis: *Functional characterisation of DNA methylation in the pest species* *Helicoverpa armigera*
 
@@ -57,11 +93,9 @@ Thesis: *Functional characterisation of DNA methylation in the pest species* *He
 
 ---
 
-## Publications
+## In-print Publications
 
-**Genotype dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*.**
-Royle JW, Farzadfar S, Wasan JP, Bennett JA. 
-*Genome* JUST-IN: 2026.
+Royle JW, Farzadfar S, Wasan JP, Bennett JA. "Variety-dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*." *Genome* (2026) **69**: 1-13.
 
 De Silva AL, Kämper W, Ogbourne SM, Nichols J, **Royle JWL**, Peters T, Hawkes D, Hosseini Bai S, Wallace HM, Trueman SJ. “MassARRAY and SABER Analyses of SNPs in Embryo DNA Reveal the Abscission of Self-Fertilised Progeny during Fruit Development of Macadamia (*Macadamia integrifolia* Maiden & Betche)”. *International Journal of Molecular Sciences* (2024) **25**(12): 6419.
 
@@ -71,9 +105,13 @@ Rogl KA, Rahi ML, **Royle JW**, Prentis PJ, Hurwood DA. “A transcriptome-wide 
 
 ---
 
-## Conference presentations
+## Publications in review
 
-**Royle JWL**, Applebaum I, Wasan JP, Bennett JA. "Native plants filter soil pathogen communities across Canadian Grasslands." Canadian Society of Ecology and Evolution (2026).
+**Royle JWL**, Applebaum I, Wasan JP, Bennett JA. "Native plants filter soil pathogen communities across Canadian Grasslands." *In Review*, 2026.
+
+--- 
+
+## Conference presentations
 
 **Royle JWL**, Bennett JA. “Exploring the ecological role of viruses in grassland soil dynamics.”  
 Canadian Society of Ecology and Evolution (2025).
@@ -91,4 +129,21 @@ International Congress of Genetics (2023).
 **Royle JWL**, Prabhu A, An J, Hawkes D, Grinham H, Rinke C.  
 “Metagenomic Insights of a complex soil sample using the PacBio Sequel II.”
 Australasian Genomics Conference (2022). 
+
 ---
+
+## Accepted Conference presentations
+
+**Royle JWL**, Applebaum I, Wasan JP, Bennett JA. "Native plants filter soil pathogen communities across Canadian Grasslands." Canadian Society of Ecology and Evolution (2026).
+
+Isaac Peetoom Heida, Heather Anderson, **Jack Royle**, Jon Bennett, Cameron Carlyle, Carolyn Fitzsimmons, James Cahill. "Soils conditions overwhelm the effects of plant species on soil microbial community composition." Canadian Society of Ecology and Evolution (2026).
+
+Shuyin Huang, **Jack Royle** Itaii Applebaum, John Paul Wasan, Jonathan Bennett. "Plant invasion alters the diversity-productivity relationship and soil-borne pathogen communities". Canadian Society of Ecology and Evolution (2026).
+
+Jonathan Bennett, Itaii Appelbaum, Shuyin Huang, Suma Ghosh, Shreemi Prabhakaran, **Jack Royle**. "Specificity in arbuscular mycorrhizas is species and environment dependent". Canadian Society of Ecology and Evolution (2026).
+
+Itaii Applebaum, **Jack Royle**, Shreemi Prabhakaran, Jonathan Bennett. "The effect of prairie plants on soil fungal community composition". Canadian Society of Ecology and Evolution (2026).
+
+Isaac Peetoom Heida, Jack Royle, Zerong Dai, Jon Bennett, Cameron Carlyle, Carolyn Fitzsimmons, and James Cahill. "Nitrogen fixation as an ecological indicator of methane oxidation potential in northern grassland soils". International Society of Molecular Ecology (2026).
+
+
