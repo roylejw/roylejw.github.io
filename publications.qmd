@@ -10,6 +10,10 @@ This page lists all published articles and manuscripts in print. For a complete 
 
 ---
 
+**Lost in Extraction: Uncovering Bias in Soil Microbial Community Profiles.**
+Cardoni M., Nguyen H, Royle J, & Bennett, JA. 2026. 
+*Applied and Environmental Soil Science*, 1:5563719. DOI: [https://doi.org/10.1155/aess/5563719](https://doi.org/10.1155/aess/5563719)
+
 **Variety-dependent microbial community restructuring under salinity stress outweighs direct benefits of native microbe inoculation in *Hordeum vulgare*.**
 Royle JW, Farzadfar S, Wasan JP, Bennett JA. 2026. 
 *Genome* 69:1-13. DOI: [https://doi.org/10.1139/gen-2025-0095]( https://doi.org/10.1139/gen-2025-0095)
