@@ -10,6 +10,10 @@ This page lists all published articles and manuscripts in print. For a complete 
 
 ---
 
+**Jack Royle**, Itaii Applebaum, John Paul Wasan, Sean R. Asselin, and Jonathan Bennett. 2026. "Host-specific soil oomycete communities are spatially repeatable across natural grasslands." *Canadian Journal of Microbiology.* 72: 1-13. DOI: [https://doi.org/10.1139/cjm-2026-0106](https://doi.org/10.1139/cjm-2026-0106)
+
+Cardoni, Martina, **Jack Royle**, and Jonathan A. Bennett. "Above-and belowground plant–soil feedbacks are shaped by distinct microbial drivers across alfalfa cultivars." *Applied Soil Ecology* 227 (2026): 107494. DOI: [10.1016/j.apsoil.2026.107494](https://doi.org/10.1016/j.apsoil.2026.107494)
+
 **Isoform-resolved transcriptomics reveals stage-specific isoform switching and protein domain remodeling in Helicoverpa armigera.**
 Wickramage HK, **Royle JW**, Sadowski P, Dudley KJ.
 *Transcription* (2026): 1-18. DOI: [https://doi.org/10.1080/21541264.2026.2708591](https://doi.org/10.1080/21541264.2026.2708591)
@@ -40,8 +44,7 @@ Rogl KA, Rahi ML, Royle JWL, Prentis PJ, Hurwood DA.
 
 While these undergo peer review, feel free to reach out if the topic is of interest to discuss
 
-**Host-specific pathogen accumulation leaves a spatially repeatable signature in soil oomycete communities across natural grasslands.**
-Royle JW, Applebaum I, Wasan JP, Bennett JA. 
+**"Poreflow-ITS: an end-to-end pipeline for the analysis of nanopore full-length ITS sequences based on pooled consensus clustering."** **Royle JW**, Bennett JA. [Zenodo link](https://doi.org/10.5281/zenodo.23245120)
 
 **Virus-host-environment interactions structure dsDNA soil viral communities across NEON monitored grasslands.**
 Royle JW, Al-shammaa M, Prager S, Bennett JA.

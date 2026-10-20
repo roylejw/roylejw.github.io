@@ -89,6 +89,10 @@ Thesis: *Functional characterisation of DNA methylation in the pest species* *He
 
 ## In-print Publications
 
+**Jack Royle**, Itaii Applebaum, John Paul Wasan, Sean R. Asselin, and Jonathan Bennett. 2026. "Host-specific soil oomycete communities are spatially repeatable across natural grasslands."" *Canadian Journal of Microbiology.* 72: 1-13.
+
+Cardoni, Martina, **Jack Royle**, and Jonathan A. Bennett. "Above-and belowground plant–soil feedbacks are shaped by distinct microbial drivers across alfalfa cultivars." *Applied Soil Ecology* 227 (2026): 107494.
+
 Wickramage HK, **Royle JW**, Sadowski P, Dudley KJ. "Isoform-resolved transcriptomics reveals stage-specific isoform switching and protein domain remodeling in Helicoverpa armigera." *Transcription* (2026): 1-18.
 
 Cardoni M., Nguyen H, **Royle J**, & Bennett, JA. "Lost in Extraction: Uncovering Bias in Soil Microbial Community Profiles." *Applied and Environmental Soil Science* (2026) **1**:5563719.
@@ -105,10 +109,9 @@ Rogl KA, Rahi ML, **Royle JW**, Prentis PJ, Hurwood DA. “A transcriptome-wide 
 
 ## First author publications in review
 
-**"Host-specific pathogen accumulation leaves a spatially repeatable signature in soil oomycete communities across natural grasslands."**
-**Royle JW**, Applebaum I, Wasan JP, Bennett JA. 
-
 **"Virus-host-environment interactions structure dsDNA soil viral communities across NEON monitored grasslands."** **Royle JW**, Al-shammaa M, Prager S, Bennett JA.
+
+**"Poreflow-ITS: an end-to-end pipeline for the analysis of nanopore full-length ITS sequences based on pooled consensus clustering."** **Royle HW**, Bennett JA.
 
 --- 
 
